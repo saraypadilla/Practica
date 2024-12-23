@@ -58,7 +58,7 @@ p{
     font-family: 'Outfit', sans-serif;
     text-align: center;  /*Centra el texto dentro del elemento*/
     margin-left: 20px; /*Le da margen al elemento en la izquierda*/
-    margin-right: 15px; /*Le da margen al elemento en la derecha*//
+    margin-right: 15px; /*Le da margen al elemento en la derecha*/
     color: hsl(216, 15%, 48%);
     font-size: 15px; /*Tamaño de la fuente*/
 }
