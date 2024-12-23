@@ -20,15 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![](Style/Captura de pantalla.png)
-
+![Captura de pantalla](<Style/Captura de pantalla.png>)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/saraypadilla/Practica/tree/main/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://saraypadilla.github.io/Practica/qr-code-component-main/index.html)
 
 ## My process
 
@@ -66,6 +64,6 @@ y trabajar con transiciones y animaciones para añadir interactividad a mis proy
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@saraypadilla](https://www.frontendmentor.io/profile/saraypadilla)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
 
 
