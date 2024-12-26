@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+
+}
+
+@font-face {
+    font-family: inter;
+    src: url(../assets/fonts/Inter-VariableFont_slnt,wght.ttf);
+    font-style: normal;
+    font-weight: 100 900;
+}
+
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+.card{
+    background-color: hsl(0, 0%, 12%);
+}
+
+.btn{
+    font-family: inter;
+    background-color: hsl(0, 0%, 20%);
+    font-size: 13px;
+}
+
+.card-text{
+    color: hsl(75, 94%, 57%);
+    font-size: 11px;
+    font-weight: bold;
+}
+.card-text2{
+    font-size: 13px;
+}
+
+.btn:hover{
+    background-color: hsl(75, 94%, 57%);
+
+}
